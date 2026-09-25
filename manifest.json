@@ -1,0 +1,9 @@
+{
+  "name": "Bukankala Small Business Assistant",
+  "short_name": "Bukankala",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#15803d",
+  "icons": []
+}
